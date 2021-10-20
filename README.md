@@ -1,1 +1,1 @@
-# cs107test
+# cs107test [![Build Status](https://app.travis-ci.com/ndhers/cs107test.svg?branch=main)](https://app.travis-ci.com/ndhers/cs107test) [![codecov](https://codecov.io/gh/ndhers/cs107test/branch/main/graph/badge.svg?token=4X8I6JMOKU)](https://codecov.io/gh/ndhers/cs107test)
